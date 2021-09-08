@@ -1,2 +1,3 @@
 # bot-for-chatwoot
-chatwoot.com/
+https://chatwoot.com/
+https://github.com/SmartManoj/rasa-agent-bot-demo
