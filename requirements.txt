@@ -1,0 +1,10 @@
+dialogflow
+livereload==2.5.1
+psycopg2-binary>=2.8
+requests
+python-telegram-bot
+flask
+twilio
+quart
+gunicorn
+fpdf
